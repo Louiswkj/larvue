@@ -1,0 +1,14 @@
+{
+    "name": "larvue/larvue",
+    "description": "larvue demo",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dd",
+            "email": "331106090@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
